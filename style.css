@@ -63,6 +63,7 @@ p {
     .navbar-collapse {
         margin-top: 12px;
         border-top: 1px solid white;
+        padding-top: 6px;
     }
     .nav-item {
         margin: 0 auto;
